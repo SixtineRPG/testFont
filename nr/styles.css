@@ -1,0 +1,211 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "nr";
+  src:url("fonts/nr.eot");
+  src:url("fonts/nr.eot?#iefix") format("embedded-opentype"),
+    url("fonts/nr.woff") format("woff"),
+    url("fonts/nr.ttf") format("truetype"),
+    url("fonts/nr.svg#nr") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "nr" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="nri-"]:before,
+[class*=" nri-"]:before {
+  font-family: "nr" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nri-bois:before {
+  content: "\61";
+}
+.nri-secheresse:before {
+  content: "\62";
+}
+.nri-suna:before {
+  content: "\63";
+}
+.nri-sharingan:before {
+  content: "\64";
+}
+.nri-poison:before {
+  content: "\65";
+}
+.nri-renforcement:before {
+  content: "\66";
+}
+.nri-senseur:before {
+  content: "\67";
+}
+.nri-soin:before {
+  content: "\68";
+}
+.nri-shuriken3:before {
+  content: "\69";
+}
+.nri-shuriken2:before {
+  content: "\6a";
+}
+.nri-harareru:before {
+  content: "\6b";
+}
+.nri-terre:before {
+  content: "\6c";
+}
+.nri-boue:before {
+  content: "\6d";
+}
+.nri-cristal:before {
+  content: "\6e";
+}
+.nri-typhon:before {
+  content: "\6f";
+}
+.nri-seireiken:before {
+  content: "\70";
+}
+.nri-shuriken1:before {
+  content: "\71";
+}
+.nri-ryo:before {
+  content: "\72";
+}
+.nri-unionshinobi:before {
+  content: "\73";
+}
+.nri-vapeur:before {
+  content: "\74";
+}
+.nri-eau:before {
+  content: "\75";
+}
+.nri-feu:before {
+  content: "\76";
+}
+.nri-vent:before {
+  content: "\77";
+}
+.nri-akatsuki:before {
+  content: "\78";
+}
+.nri-yeux:before {
+  content: "\79";
+}
+.nri-eventail:before {
+  content: "\7a";
+}
+.nri-bambou:before {
+  content: "\41";
+}
+.nri-yang:before {
+  content: "\42";
+}
+.nri-foudre:before {
+  content: "\43";
+}
+.nri-glace:before {
+  content: "\44";
+}
+.nri-yin:before {
+  content: "\45";
+}
+.nri-poisson:before {
+  content: "\46";
+}
+.nri-explosion:before {
+  content: "\47";
+}
+.nri-furtif:before {
+  content: "\48";
+}
+.nri-kunai:before {
+  content: "\49";
+}
+.nri-yinyang:before {
+  content: "\4a";
+}
+.nri-lave:before {
+  content: "\4b";
+}
+.nri-magnetisme:before {
+  content: "\4c";
+}
+.nri-iwa:before {
+  content: "\4d";
+}
+.nri-lantern2:before {
+  content: "\4e";
+}
+.nri-katana2:before {
+  content: "\4f";
+}
+.nri-katana:before {
+  content: "\50";
+}
+.nri-lantern:before {
+  content: "\51";
+}
+.nri-naruto:before {
+  content: "\52";
+}
+.nri-metal:before {
+  content: "\53";
+}
+.nri-orage:before {
+  content: "\54";
+}
+.nri-konoha:before {
+  content: "\55";
+}
+.nri-naruto-1:before {
+  content: "\56";
+}
+.nri-lancer:before {
+  content: "\57";
+}
+.nri-marionnettiste:before {
+  content: "\58";
+}
+.nri-parchemin:before {
+  content: "\59";
+}
+.nri-enveloppe:before {
+  content: "\5a";
+}
+.nri-ramen:before {
+  content: "\30";
+}
+.nri-kumo:before {
+  content: "\31";
+}
+.nri-paysdufer:before {
+  content: "\32";
+}
+.nri-sable:before {
+  content: "\33";
+}
+.nri-poussiere:before {
+  content: "\34";
+}
